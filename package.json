@@ -19,6 +19,7 @@
     "onDidSaveTextDocument"
   ],
   "main": "./extension.js",
+  "icon": "assets/ai.png",
   "contributes": {
     "commands": [
       {
