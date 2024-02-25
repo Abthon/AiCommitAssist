@@ -1,3 +1,9 @@
 node_modules
 .vscode-test/
 *.vsix
+.vscode
+.env
+vsc-extension-quickstart.md
+CHANGELOG.md
+.vscode-test.mjs
+test/
