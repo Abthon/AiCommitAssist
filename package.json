@@ -1,0 +1,46 @@
+{
+  "name": "aicommitassist",
+  "displayName": "AiCommitAssist",
+  "publisher": "AbenezerWalelign",
+  "description": "Introducing **AiCommitAssist**: ...",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "aicommitassist.activateAiCommitAssist",
+    "onDidSaveTextDocument"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "aicommitassist.activateAiCommitAssist",
+        "title": "Activate AiCommitAssist"
+      }
+    ]
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "vscode-test"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.6",
+    "@types/node": "18.x",
+    "@types/vscode": "^1.86.0",
+    "@vscode/test-cli": "^0.0.4",
+    "@vscode/test-electron": "^2.3.9",
+    "eslint": "^8.56.0",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.2",
+    "openai": "^4.27.0",
+    "simple-git": "^3.22.0"
+  }
+}
