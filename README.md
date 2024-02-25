@@ -28,7 +28,7 @@ Your security is my priority. AiCommitAssist uses SecretStorage for storing your
 
 ### Screenshot
 
-![AiCommitAssist in Action](../aicommitassist/Screenshots/Screenshot%20.png)
+![AiCommitAssist in Action](Screenshots/Screenshot%20.png)
 
 
 ### Support
