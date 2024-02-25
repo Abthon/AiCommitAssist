@@ -2,8 +2,12 @@
   "name": "aicommitassist",
   "displayName": "AiCommitAssist",
   "publisher": "AbenezerWalelign",
-  "description": "Introducing **AiCommitAssist**: ...",
+  "description": "AiCommitAssist: Effortless, AI-powered commits for your code",
   "version": "0.0.1",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/Abthon/AiCommitAssist"
+    },
   "engines": {
     "vscode": "^1.86.0"
   },
