@@ -1,4 +1,4 @@
-# AiCommitAssist for VSCode
+# AiCommitAssist
 
 ## Transform Your Commit Workflow with AI
 
@@ -28,12 +28,12 @@ Your security is my priority. AiCommitAssist uses SecretStorage for storing your
 
 ### Screenshot
 
-![AiCommitAssist in Action](../aicommitassist/Screenshots/Screenshot%20.png)
+![AiCommitAssist in Action](https://github.com/Abthon/AiCommitAssist/blob/main/Screenshots/Screenshot%20.png)
 
 
 ### Support
 
-For support, questions, or feedback, please visit my GitHub repository or contact me at [walelignabenezer@gmail.com](mailto:walelignabenezer@gmail.com).
+For support, questions, or feedback, please visit my [GitHub](https://github.com/Abthon/AiCommitAssist) repository or contact me at [walelignabenezer@gmail.com](mailto:walelignabenezer@gmail.com).
 
 Transform your commit workflow with AiCommitAssist and focus more on coding and less on manual processes. Try AiCommitAssist today and experience the future of code management! 😉🖖
 
